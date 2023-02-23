@@ -1,10 +1,10 @@
-+ 👋 Hi, I’m @thanhcanhit
++ 🙋‍♂️ Hi, I’m @thanhcanhit - *Student at IUH University. Specialization in Software Engineering (DHKTPM17C)*
 + ⭐ My skill/knowledge: 
-  + HTML/CSS, JS (ES6)
-  + TailwindCSS, SASS/SCSS, ReactJS
-  + Java
-  + MongoDB, T-SQL
-## You can try:
+  + HTML/CSS, JS (ES6) 🐔
+  + TailwindCSS, SASS/SCSS, ReactJS 🐔
+  + Java 🐥
+  + MongoDB, T-SQL 🐣
+### You can try:
 *Peach Toeic - The app I'm most proud of right now. It using ReactJS + TailwindCSS*.
 *Used to learn TOEIC vocabulary words.*
 
