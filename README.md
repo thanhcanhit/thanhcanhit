@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @thanhcanhit
-- 👀 I’m interested in make website and application.
-- 🌱 I’m currently learning ReactJS.
-- 💞️ I’m looking to collaborate on IUH.
-- 📫 How to reach me thanhcanh.dev@gmail.com
++ 👋 Hi, I’m @thanhcanhit
++ ⭐ My skill/knowledge: 
+  + HTML/CSS, JS (ES6)
+  + TailwindCSS, SASS/SCSS, ReactJS
+  + Java
+  + MongoDB, T-SQL
+## You can try:
+*Peach Toeic - The app I'm most proud of right now. It using ReactJS + TailwindCSS*.
+*Used to learn TOEIC vocabulary words.*
 
-<!---
-thanhcanhit/thanhcanhit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![PeachToeic](https://thanhcanhit.github.io/peach-toeic/assets/favicon/favicon-32x32.png)
+[Peach Toeic](https://thanhcanhit.github.io/peach-toeic)
