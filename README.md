@@ -21,9 +21,6 @@ Third-year 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 stu
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 
-### Random Dev Meme 😂
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; margin-inline: auto"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=thanhcanhit&icon=1&color=4)](https://visitcount.itsvg.in)
 
