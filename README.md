@@ -1,5 +1,5 @@
 # 💫 About Me:
-Third-year 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 student, future 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with participated in numerous individual and group projects over the years, applying a variety of technologies. My ambition is to become a well-rounded programmer.<br><br>𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹: React.js, React Native, Node.js, Typescript,...<br><br>𝗠𝘆 𝗸𝗲𝘆 𝗵𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀: <br>- Participated in the project that won first prize in the Engineering Project in Community Service (EPICS) 2024 competition.<br><br>I'm excited about new opportunities and challenges where i can contribute and learn.<br>I enjoy connecting with new people and hearing new perspectives, you can reach me at thanhcanh.dev@gmail.com
+Third-year 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 student, future 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with participated in numerous individual and group projects over the years, applying a variety of technologies. My ambition is to become a well-rounded programmer.<br><br>𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹: React.js, Node.js, Typescript,...<br><br>𝗠𝘆 𝗸𝗲𝘆 𝗵𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀: <br>- Participated in the project that won first prize in the Engineering Project in Community Service (EPICS) 2024 competition.<br><br>I'm excited about new opportunities and challenges where i can contribute and learn.<br>I enjoy connecting with new people and hearing new perspectives, you can reach me at thanhcanh.dev@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanhcanhit) 
@@ -20,8 +20,5 @@ Third-year 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 stu
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-
----
-[![](https://visitcount.itsvg.in/api?id=thanhcanhit&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
