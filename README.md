@@ -1,5 +1,14 @@
-# 💫 About Me:
-Four-year 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 student, future 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with participated in numerous individual and group projects over the years, applying a variety of technologies. My ambition is to become a well-rounded programmer.<br><br>𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹: React.js, Node.js, Typescript,...<br><br>𝗠𝘆 𝗸𝗲𝘆 𝗵𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀: <br>- Participated in the project that won first prize in the Engineering Project in Community Service (EPICS) 2024 competition.<br><br>I'm excited about new opportunities and challenges where i can contribute and learn.<br>I enjoy connecting with new people and hearing new perspectives, you can reach me at thanhcanh.dev@gmail.com
+💫 About Me:
+
+I'm a passionate fourth-year Software Engineering student with hands-on experience as a developer intern at a dynamic startup. My journey in tech has been fueled by a strong commitment to self-learning and an insatiable curiosity, driving me to build numerous personal projects that showcase my skills and creativity.
+
+I've had the privilege of participating in various startup and innovation competitions, where my team and I secured the first prize at the EPICS 2024 competition and third place at the Ra Khơi 2024 Startup competition, a testament to our hard work and innovative solutions.
+
+Key Skills: React.js, Node.js, TypeScript, and more.
+
+I'm always on the lookout for new challenges and opportunities to grow as a full-stack developer. Let's connect and explore how we can collaborate and create something amazing together!
+
+Feel free to reach out to me at thanhcanh.dev@gmail.com.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanhcanhit) 
@@ -15,7 +24,6 @@ Four-year 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 stud
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
