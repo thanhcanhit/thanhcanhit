@@ -13,7 +13,7 @@ These achievements are a testament to my team's hard work and our innovative sol
 
 ### 🛠 Tech Stack
 
-- **Frontend:** **React.js**, **Next.js**, Redux, React Native, shadcnui, Ant Design
+- **Frontend:** **React.js**, **Next.js**, **TailwindCSS**, Redux, React Native, shadcnui, Ant Design
 - **Backend:** Express.js, **Supabase**
 - **Databases:** MSSQL, MariaDB, NoSQL MongoDB
 - **Languages:** **TypeScript**, JavaScript, Java, and more
@@ -37,7 +37,7 @@ I'm always on the lookout for new challenges and opportunities to grow as a **fu
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanhcanhit) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanhcanhit) 
 
-# 💻 Tech Stack:
+## More Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
