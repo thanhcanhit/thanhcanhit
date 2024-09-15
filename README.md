@@ -1,14 +1,37 @@
-💫 About Me:
+## Hey there! I'm Thanh Canh 👋
 
-I'm a passionate fourth-year Software Engineering student with hands-on experience as a developer intern at a dynamic startup. My journey in tech has been fueled by a strong commitment to self-learning and an insatiable curiosity, driving me to build numerous personal projects that showcase my skills and creativity.
+### 👨‍💻 About Me
 
-I've had the privilege of participating in various startup and innovation competitions, where my team and I secured the first prize at the EPICS 2024 competition and third place at the Ra Khơi 2024 Startup competition, a testament to our hard work and innovative solutions.
+I'm a passionate **fourth-year Software Engineering student** and currently sharpening my skills as a **developer intern** at a dynamic startup. My tech journey is driven by an insatiable curiosity and a commitment to self-learning, leading me to build numerous personal projects that showcase my creativity and expertise.
 
-Key Skills: React.js, Node.js, TypeScript, and more.
+### 🚀 Achievements
 
-I'm always on the lookout for new challenges and opportunities to grow as a full-stack developer. Let's connect and explore how we can collaborate and create something amazing together!
+- 🥇 **First Place** at the **EPICS 2024 Competition**
+- 🥉 **Third Place** at the **Ra Khơi 2024 Startup Competition**
 
-Feel free to reach out to me at thanhcanh.dev@gmail.com.
+These achievements are a testament to my team's hard work and our innovative solutions in the tech space.
+
+### 🛠 Tech Stack
+
+- **Frontend:** **React.js**, **Next.js**, Redux, React Native, shadcnui, Ant Design
+- **Backend:** Express.js, **Supabase**
+- **Databases:** MSSQL, MariaDB, NoSQL MongoDB
+- **Languages:** **TypeScript**, JavaScript, Java, and more
+
+### 🌱 What I'm Up To
+
+- Exploring the depths of **Next.js** for building robust web applications
+- Leveraging **Supabase** for scalable backend solutions
+- Crafting intuitive UI components with **shadcnui**
+- Building cross-platform mobile apps with **React Native**
+- Deepening my knowledge of **Redux** for state management
+- Enhancing database skills with **SQL** and **NoSQL MongoDB**
+
+### 🤝 Let's Connect
+
+I'm always on the lookout for new challenges and opportunities to grow as a **full-stack developer**. Let's collaborate and create something amazing together!
+
+📧 **Email:** [thanhcanh.dev@gmail.com](mailto:thanhcanh.dev@gmail.com)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanhcanhit) 
