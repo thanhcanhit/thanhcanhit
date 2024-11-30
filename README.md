@@ -2,54 +2,81 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **fourth-year Software Engineering student** and currently sharpening my skills as a **developer intern** at a dynamic startup. My tech journey is driven by an insatiable curiosity and a commitment to self-learning, leading me to build numerous personal projects that showcase my creativity and expertise.
+I'm a passionate **fourth-year Software Engineering student** currently interning as a **developer** at a dynamic startup. My tech journey is fueled by an insatiable curiosity and a commitment to self-learning, leading to innovative projects and impactful solutions in the tech world.
 
 ### 🚀 Achievements
 
-- 🥇 **First Place** at the **EPICS 2024 Competition**
-- 🥉 **Third Place** at the **Ra Khơi 2024 Startup Competition**
-
-These achievements are a testament to my team's hard work and our innovative solutions in the tech space.
+- 🥇 **First Place** at the **EPICS 2024 Competition**: Championing impactful engineering projects for community betterment.
+- 🥉 **Third Place** at the **Ra Khơi 2024 Startup Competition**: Contributing to innovative startup solutions.
 
 ### 🛠 Tech Stack
 
 - **Frontend:** **React.js**, **Next.js**, **TailwindCSS**, Redux, React Native, shadcnui, Ant Design
-- **Backend:** Express.js, **Supabase**
-- **Databases:** MSSQL, MariaDB, NoSQL MongoDB
-- **Languages:** **TypeScript**, JavaScript, Java, and more
+- **Backend:** Express.js, **Supabase**, Java Spring Boot
+- **Databases:** MSSQL, MongoDB, PostgreSQL
+- **Languages:** **TypeScript**, JavaScript, Java
+- **Development Tools:** Docker, Git/Git Flow
+- **AI Integration:** GitHub Copilot, Cursor, v0.dev for optimized development workflows
 
 ### 🌱 What I'm Up To
 
-- Exploring the depths of **Next.js** for building robust web applications
-- Leveraging **Supabase** for scalable backend solutions
-- Crafting intuitive UI components with **shadcnui**
-- Building cross-platform mobile apps with **React Native**
-- Deepening my knowledge of **Redux** for state management
-- Enhancing database skills with **SQL** and **NoSQL MongoDB**
+- Crafting scalable and user-friendly web applications with Next.js.
+- Building robust and efficient backend solutions using Supabase and Prisma ORM for seamless database interactions.
+- Designing elegant and intuitive user interfaces with shadcnui.
+- Exploring advanced techniques to integrate AI Chatbots for enhanced user engagement.
+- Leveraging modern tech stacks to develop innovative software solutions that address real-world challenges.
+
+### 👨‍💼 Professional Experience
+
+#### **BeeKrowd** (06/2024 - Present)  
+**Developer**  
+- **Online Learning Platform:** Designed and developed a Coursera-like system with features for instructors, learners, and admins.
+- **AI Chatbot Integration:** Built automated customer interactions via Zalo OA using **N8N** and **Flowise**.
+- **Enterprise Connections:** Implemented Zalo Mini App features connecting students with enterprises.
+- **Deployment & Scaling:** Configured Dockerized environments for GitHub-hosted projects.
+
+#### **MindX** (06/2024 - 08/2024)  
+**IT Teaching Assistant**  
+- Taught programming basics (Scratch, Game Maker, HTML/CSS) to primary and secondary school students.
+
+### 🎓 Education
+
+**Bachelor of Software Engineering** | **Industrial University of HCMC**  
+*GPA: 3.57* (Scholarship recipient for all semesters)
+
+### 🏆 Certifications
+
+- **TOEIC 770** (Listening and Reading)
 
 ### 🤝 Let's Connect
 
-I'm always on the lookout for new challenges and opportunities to grow as a **full-stack developer**. Let's collaborate and create something amazing together!
+I'm eager to collaborate on exciting projects, contribute to impactful products, and grow as a **Full-Stack Developer**. Let's build the future together!  
 
-📧 **Email:** [thanhcanh.dev@gmail.com](mailto:thanhcanh.dev@gmail.com)
+📧 **Email:** [thanhcanh.dev@gmail.com](mailto:thanhcanh.dev@gmail.com)  
+📌 **GitHub:** [thanhcanhit](https://github.com/thanhcanhit)  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanhcanhit) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanhcanhit) 
 
 ## More Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
